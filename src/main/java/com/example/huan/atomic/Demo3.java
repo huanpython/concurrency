@@ -1,4 +1,4 @@
-package com.example.huan.CAS;
+package com.example.huan.atomic;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicReference;

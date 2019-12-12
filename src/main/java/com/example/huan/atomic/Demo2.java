@@ -1,4 +1,4 @@
-package com.example.huan.CAS;
+package com.example.huan.atomic;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;
